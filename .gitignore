@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Archivos de bloqueo de dependencias
+package-lock.json
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de salida o generación
+*.tar.gz
+*.zip
+*.tgz
+*.bak
+
+# Archivos generados por el script
+estructura_encuesta.json
