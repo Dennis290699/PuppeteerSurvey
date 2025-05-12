@@ -15,7 +15,7 @@ Este proyecto permite automatizar el llenado de una encuesta en línea en el sit
 
    ```bash
    git clone https://github.com/Dennis290699/PuppeteerSurvey.git
-   cd <PuppeteerSurvey>
+   cd PuppeteerSurvey
    ```
 
 2. **Instala las dependencias** del proyecto ejecutando el siguiente comando en tu terminal:
